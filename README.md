@@ -62,7 +62,7 @@ The BIOT Hand reads muscle activity using EMG sensors and triggers finger moveme
 - Install required libraries and board manager for ESP32.
 - Connect the EMG sensor and servo motors as per the wiring diagram.
 - Upload the code while holding the BOOT button on ESP32.
-- Launch your mobile app (Blynk/Custom) and control remotely!
+- Launch your web app at http://192.168.4.1/ and control remotely!
 
 ## 📩 Want to Collaborate?
 ### If you're working on something similar in robotics, prosthetics, or IoT, feel free to open a discussion or drop a message. Let’s innovate together!

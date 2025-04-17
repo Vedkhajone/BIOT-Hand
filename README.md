@@ -69,3 +69,7 @@ The BIOT Hand reads muscle activity using EMG sensors and triggers finger moveme
 
 ## 📜 License
 This project is open-sourced. Feel free to fork, use, and modify with **credits**.
+
+# Developer
+## The Ved Khajone
+

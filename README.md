@@ -1,1 +1,1 @@
-# BIOT-Hand-Bionic-IoT-
+# BIOT-Hand (Bionic + IoT)

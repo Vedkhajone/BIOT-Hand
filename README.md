@@ -1,6 +1,8 @@
 # 🤖 BIOT Hand – Bionic + IoT Powered Prosthetic Hand
 
 A mini-project developed as part of our academic curriculum, **BIOT Hand** combines the power of **bionics (muscle signal control)** and **IoT (wireless app-based control)** to create a smart, responsive prosthetic hand. This project is a step toward affordable, adaptive, and remotely controllable prosthetics.
+[![Watch the video](https://github.com/Vedkhajone/BIOT-Hand/blob/main/imgs/thumbnail.png)](https://github.com/your-username/your-repo-name/blob/main/path/to/video.mp4)
+
 
 ---
 

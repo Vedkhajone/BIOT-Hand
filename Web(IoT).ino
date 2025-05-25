@@ -4,7 +4,7 @@
 
 // Wi-Fi credentials
 const char *ssid = "Bionic";
-const char *password = "123456789";
+const char *password = "1234567890";
 
 // Web server
 AsyncWebServer server(80);

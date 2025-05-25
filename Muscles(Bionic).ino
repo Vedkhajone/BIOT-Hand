@@ -1,5 +1,4 @@
 #include <ESP32Servo.h>
-
 #define EMG_PIN 2     // EMG sensor connected to GPIO34 (analog pin)
 #define SERVO_PIN 25    // Servo connected to GPIO25
 

@@ -2,13 +2,9 @@
 
 A mini-project developed as part of our academic curriculum, **BIOT Hand** combines the power of **bionics (muscle signal control)** and **IoT (wireless app-based control)** to create a smart, responsive prosthetic hand. This project is a step toward affordable, adaptive, and remotely controllable prosthetics.
 
-
-
 https://github.com/user-attachments/assets/10021c66-c7c7-4c0f-b7b7-b1fb8bf73a95  
+
 https://github.com/user-attachments/assets/98330516-1218-4c97-9cd4-9d9eec943c4c
-
-
-
 
 ---
 
